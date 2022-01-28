@@ -1,0 +1,2 @@
+# hotel-delete
+hotel-delete
